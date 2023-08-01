@@ -10,7 +10,7 @@ body {
   background-repeat: no-repeat;
 }
 p {
-  color: #fff000; 
+  color: #f23ed3; 
 }
 .top-bar {
   background-color: #200D32;
@@ -43,7 +43,7 @@ p {
 }
 
 .top-bar a:nth-child(4) {
-  background-color: #00ff00;
+  background-color: #E2243F;
 }
 
 .content {
@@ -96,6 +96,13 @@ ul li {
 .card img {
   width: 100%;
   border-radius: 5px;
+}
+
+/* Estilos para el cuadro medio gris transparente */
+.content-box {
+  background-color: rgba(200, 200, 200, 0.6);
+  padding: 20px;
+  border-radius: 10px;
 }
 
 .card h3 {
