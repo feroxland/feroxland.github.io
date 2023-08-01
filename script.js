@@ -5,7 +5,7 @@ const suggestedContent = [
   { title: "Unbreakable Union", description: "Dos hermanos tratando de expiar sus pecados", image: "imagen-4.png" },
   { title: "The Reborn Of The Blood", description: "El camino de Bogie Kast para salvar su ciudad", image: "imagen-5.png" },
   { title: "The Earth Theme", description: "¿Qué pasaría si África tuviera las mismas guerras que Europa?", image: "imagen-6.png" },
-  { title: "Trompis And Friends", description: "¡El lugar donde la diversión y la fantasía vienen a la vida, muy pronto, no se lo pierdan!", image: "imagen-7.png" },
+  { title: "Trompis And Friends", description: "Trompis & Friends, la pizzeria donde la diversion y la fantasia vienen a la vida, abierto las 24 horas!", image: "imagen-7.png" },
   { title: "Thiefhunter", description: "El defensor de Big Sin City", image: "imagen-9.png" },
   { title: "High Dunk", description: "El genio del Basket, Hanamichi Sakuragi", image: "imagen-8.png" },
   { title: "Psychological Island", description: "El caos de los muertos vivientes", image: "imagen-11.png" },
